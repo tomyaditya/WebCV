@@ -9,7 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-image: url('./assets/bg.jpg'); /* Menambahkan gambar latar belakang */
+  background-image: url('./bg.jpg'); /* Menambahkan gambar latar belakang */
   background-size: cover; /* Gambar latar akan menutupi seluruh halaman */
   background-position: center; /* Gambar diposisikan di tengah */
   background-attachment: fixed; /* Gambar tetap saat halaman di-scroll */
